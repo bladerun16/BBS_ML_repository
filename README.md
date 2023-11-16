@@ -1,6 +1,12 @@
 # BBS_ML_repository
  Machine Learning course for Bologna Business School
+
+Prof. Claudio Sartori mailto://claudio.sartori@unibo.it
+
+Tutor dr. Filippo Orazi mailto://filippo.orazi2@unibo.it
+
  Contains:
+
  - presentations used in class
  - lab activities
  - reading materials mentioned in the Syllabus
