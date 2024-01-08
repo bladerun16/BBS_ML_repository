@@ -8,6 +8,12 @@
 	- Lab on topic 2
 - 23/11/2023
 	- 03-Classification-I (pages 16-68)
+	- Lab on topic 3a
 - 07/12/2023
 	- 03-Classification-I (pages 69-end)
 	- 03-Classification-II (pages 1-21)
+	- Lab on topic 3b
+- 21/12
+	- 03-Classification-II (pages 22-end)
+	- 03-Classification-III (pages 1-...)
+	- Lab on topic 3c
