@@ -8,12 +8,16 @@
 	- Lab on topic 2
 - 23/11/2023
 	- 03-Classification-I (pages 16-68)
-	- Lab on topic 3a
+	- Lab on topic 3a - Classification with decision tree
 - 07/12/2023
 	- 03-Classification-I (pages 69-end)
 	- 03-Classification-II (pages 1-21)
-	- Lab on topic 3b
-- 21/12
+	- Lab on topic 3b - Classification with hyperparameter tuning
+- 21/12/2023
 	- 03-Classification-II (pages 22-end)
-	- 03-Classification-III (pages 1-...)
-	- Lab on topic 3c
+	- 03-Classification-III (pages 1-16)
+	- Lab on topic 3c - Using several classifiers
+- 08/01/2024
+	- 03-Classification-III (pages 17-end)
+	- 04-Type conversions
+	- Lab on topic 3d - Classification with categorical features
