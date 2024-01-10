@@ -21,3 +21,5 @@
 	- 03-Classification-III (pages 17-end)
 	- 04-Type conversions
 	- Lab on topic 3d - Classification with categorical features
+- 11/01/2024
+	- 05-Clustering
