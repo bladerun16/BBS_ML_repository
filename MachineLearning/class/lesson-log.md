@@ -22,10 +22,14 @@
 	- 04-Type conversions
 	- Lab on topic 3d - Classification with categorical features
 - 11/01/2024
-	- 05-Clustering (pages 1-68)
+	- 06-Clustering (pages 1-68)
+	- Lab on topic 6a - Clustering with KMeans
 - 18/01/2024
-	- 05-Clustering ()
+	- 06-Clustering (69-end)
+	- Lab on topic 6b - Clustering with other methods
 - 25/01/2024
-	- 06-Attribute selection
+	- 05-Attribute selection
 	- Seminar on generative AI
--  
+- 30/01/2024
+	- 07-Association rules mining
+	- CRISP  
