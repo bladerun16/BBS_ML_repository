@@ -22,4 +22,10 @@
 	- 04-Type conversions
 	- Lab on topic 3d - Classification with categorical features
 - 11/01/2024
-	- 05-Clustering
+	- 05-Clustering (pages 1-68)
+- 18/01/2024
+	- 05-Clustering ()
+- 25/01/2024
+	- 06-Attribute selection
+	- Seminar on generative AI
+-  
