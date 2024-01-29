@@ -28,7 +28,7 @@
 	- 06-Clustering (69-end)
 	- Lab on topic 6b - Clustering with other methods
 - 25/01/2024
-	- 05-Attribute selection
+	- 07-Association rules mining (Intro)
 	- Seminar on generative AI
 - 30/01/2024
 	- 07-Association rules mining
